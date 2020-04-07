@@ -1,1 +1,1 @@
-Boilerplates Everywhere
+boilerplates everywhere
